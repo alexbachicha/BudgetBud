@@ -26,6 +26,17 @@ When brought back online:
 
 ## Installation
 
+Install dependencies by running the following command from the project root
+```
+npm install
+```
+
+To start the application, run
+```
+npm start
+```
+
+Once the app starts, the browser can be opened to [localhost:3000](http://localhost:3000) where BudgetBud will be up and running.
 
 
 ## Usage

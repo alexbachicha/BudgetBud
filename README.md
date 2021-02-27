@@ -2,7 +2,7 @@
 
 ## Description
 
-BudgetBud is an application that allows a user to add expenses and deposits to their budget with or without a connection. When entering transactions offline, they should populate the total when brought back online. This is key for users who like to travel between, during or in the middle of business, whether personal or work-related, and can't always access their banking information due to lack of a wireless connection.
+BudgetBud is an application that allows a user to track their expenses. Being able to access this information, anytime and anywhere, is paramount when on the go, and especially during work-related travel. BudgetBud allows a user to add expenses and deposits to their budget with or without a connection. This is key for users who can't always access their banking information due to lack of a wireless connection.
 
 Offline Functionality:
 

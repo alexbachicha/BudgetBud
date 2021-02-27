@@ -1,5 +1,7 @@
 # Unit 19 PWA Homework: BudgetBud
 
+![MadeByAlexBachichaBadge](https://img.shields.io/badge/made%20by-alexbachicha-success)
+
 ## Description
 
 BudgetBud is an application that allows a user to track their expenses. Being able to access this information, anytime and anywhere, is paramount when on the go, and especially during work-related travel. BudgetBud allows a user to add expenses and deposits to their budget with or without a connection. This is key for users who can't always access their banking information due to lack of a wireless connection.
@@ -36,12 +38,12 @@ To start the application, run
 npm start
 ```
 
-Once the app starts, the browser can be opened to [localhost:3000](http://localhost:3000) where BudgetBud will be up and running.
+Once the app starts, open the browser to [localhost:3000](http://localhost:3000) where BudgetBud will be up and running.
 
 
 ## Usage
 
-View BudgetBud on [Heroku](../04-Important/MongoAtlas-Deploy.md)
+View BudgetBud deployed on [Heroku](https://blooming-meadow-60843.herokuapp.com/)
 
 ## Credits
 

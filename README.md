@@ -44,4 +44,5 @@ Licensed under the [MIT License](LICENSE.txt)
 ## Questions 
 
 - View BudgetBud on [Heroku and MongoDB Atlas.](../04-Important/MongoAtlas-Deploy.md)
-- Follow me on [GitHub](https://github.com/alexbachicha)[![GitHub Badge](https://img.shields.io/github/followers/alexbachicha?label=Questions%3F&style=social)]
+- Follow me on [GitHub](https://github.com/alexbachicha)
+![GitHub Badge](https://img.shields.io/github/followers/alexbachicha?label=Questions%3F&style=social)

@@ -1,6 +1,7 @@
 # Unit 19 PWA Homework: BudgetBud
 
 ![MadeByAlexBachichaBadge](https://img.shields.io/badge/made%20by-alexbachicha-success)
+![LastCommitBadge](https://img.shields.io/github/last-commit/alexbachicha/BudgetBud)
 
 ## Description
 

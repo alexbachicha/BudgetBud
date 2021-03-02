@@ -57,6 +57,6 @@ Licensed under the [MIT License](LICENSE.txt)
 
 ## Questions 
 
-Follow me on [GitHub](https://github.com/alexbachicha)
+Check out my [GitHub](https://github.com/alexbachicha) or send me an email [agbachicha@outlook.com](mailto:agbachicha@outlook.com)
 
 ![GitHub Badge](https://img.shields.io/github/followers/alexbachicha?label=Questions%3F&style=social)

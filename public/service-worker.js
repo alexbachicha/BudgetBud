@@ -11,12 +11,13 @@ const FILES_TO_CACHE = [
 const PRECACHE = 'precache-v1';
 const RUNTIME = 'runtime';
 
-self.addEventListener('install', (event) => {
-  event.waitUntil(
-    caches
-      .open(PRECACHE)
-      .then((cache) => cache.addAll(FILES_TO_CACHE))
-      .then(self.skipWaiting())
+self.addEventListener('install', function(event) {
+  // Perform Install steps
+  event.waitUntil (
+    caches.open(CACHE_NAME).then(function(cache) {
+      console.log("Opened cache");
+      return cache.addAll(urlsToCache);
+    })
   );
 });
 

@@ -46,8 +46,12 @@ Once the app starts, open the browser to [localhost:3000](http://localhost:3000)
 
 View BudgetBud deployed on [Heroku](https://blooming-meadow-60843.herokuapp.com/)
 
+
 ## Credits
 
+- [UC Davis's Coding Boot Camp Repository](https://ucdavis.bootcampcontent.com/ucdavis-boot-camp/ucd-sac-fsf-pt-09-2020-u-c)
+- [MongoDB Guides](https://docs.mongodb.com/guides/)
+- [Web App Manifest Generator](https://manifest-gen.netlify.app/)
 
 
 ## License
@@ -57,8 +61,6 @@ Licensed under the [MIT License](LICENSE.txt)
 
 ## Questions 
 
-Check out my [GitHub](https://github.com/alexbachicha) or shoot me an :e-mail:
-
-[agbachicha@outlook.com](mailto:agbachicha@outlook.com)
+Check out my [GitHub](https://github.com/alexbachicha) or shoot me an email :e-mail: :arrow_right: [agbachicha@outlook.com](mailto:agbachicha@outlook.com)
 
 ![GitHub Badge](https://img.shields.io/github/followers/alexbachicha?label=Questions%3F&style=social)
